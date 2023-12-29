@@ -16,9 +16,9 @@
 	;
 	-webkit-grid-gap: 2em;
 	grid-gap: .2em;
-	font-size: 2rem;
+	font-size: 1.5rem;
 	width: 50%;
-	margin-bottom: 20px;
+	margin-bottom: 10em;
 }
 
 #f_name_l{
@@ -69,9 +69,6 @@ input{
 	height: 2.5em;
 }
 
-/* footer{
-	position: sticky;
-} */
 
 @media screen and (max-width: 600px) {
 	#sign_up_form{
