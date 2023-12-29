@@ -85,11 +85,6 @@ input{
 		"email_l ."
 		"email_i email_i"
 		;
+		width: 100%;
 	}
 }
-
-/* @media screen and (max-width: 900px) {
-	footer{
-		position: sticky;
-	}
-} */
