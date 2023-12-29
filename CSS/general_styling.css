@@ -26,7 +26,6 @@ section{
 	align-items: center;
 	gap: 1.2em;
 	text-align: center;
-	z-index: 200;
 }
 
 .button{
@@ -72,7 +71,6 @@ footer
 	width: 100%;
 	padding: 1em 1.5em;
 	color: #000;
-	z-index: 100;
 }
 
 @media screen and (max-width: 600px) {
@@ -81,8 +79,8 @@ footer
 	}
 }
 
-@media screen and (max-width: 900px) {
+/* @media screen and (max-width: 900px) {
 	footer{
 		position: sticky;
 	}
-}
+} */
