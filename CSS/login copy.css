@@ -58,7 +58,7 @@ form{
 }
 
 form button{
-	padding: 1em;
+	padding: .5em;
 	grid-area: submit;
 	color: #fff;
 	background-color: #AE1314;
@@ -89,11 +89,15 @@ form a{
 @media screen and (max-width: 700px){
 	section{
 		grid-template-areas: "max_stud_paragraph" "form";
-		/* padding: initial 50px; */
 	}
 
 .login_form_card,
 .max_stud_paragraph{
 	width: 20em;
+}
+
+footer{
+	position: sticky;
+	bottom: 0px;
 }
 }
