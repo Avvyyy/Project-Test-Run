@@ -9,7 +9,7 @@ section{
 
 .login_form_card,
 .max_stud_paragraph{
-	padding: 2em;
+	padding: 1em;
 	width: 30em;
 	height: 23em;
 }
@@ -62,7 +62,7 @@ form button{
 	grid-area: submit;
 	color: #fff;
 	background-color: #AE1314;
-	margin: 1em 0em;
+	margin: .5em 0em 1em;
 	justify-self: start;
 }
 
@@ -94,6 +94,6 @@ form a{
 
 .login_form_card,
 .max_stud_paragraph{
-	width: 20em;
+	width: 25em;
 }
 }
