@@ -20,6 +20,9 @@ section{
 	flex-direction: column;
 }
 
+.login_prompt{
+	justify-self: center;
+}
 form{
 	grid-area: form;
 	display: grid;
@@ -83,8 +86,14 @@ form a{
 	align-items: center;
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 700px){
 	section{
 		grid-template-areas: "max_stud_paragraph" "form";
+		padding: initial 50px;
 	}
+
+.login_form_card,
+.max_stud_paragraph{
+	width: 20em;
+}
 }

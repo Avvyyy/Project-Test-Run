@@ -36,7 +36,7 @@ section{
 section>button{
 	border-radius: 30px;
 	width: 20%;
-	min-width: 12em;
+	min-width: 11em;
 	margin: auto;
 	padding: .5em;
 	text-align: center;
@@ -63,7 +63,7 @@ input{
 form button{
 	padding: .5em;
 	border-radius: 30px;
-	width: 10em;
+	width: 8.5em;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
