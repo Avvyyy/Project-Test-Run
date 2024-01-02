@@ -3,14 +3,13 @@ section{
 	grid-template-areas: "form max_stud_paragraph";		
 	grid-gap: 0em;
 	align-items:center;
-	justify-content:center;		
-	padding: 2em;																
+	justify-content:center;																		
 }
 
 
 .login_form_card,
 .max_stud_paragraph{
-	padding: 1em;
+	padding: .5em;
 	width: 30em;
 	height: 23em;
 }
@@ -63,7 +62,7 @@ form button{
 	grid-area: submit;
 	color: #fff;
 	background-color: #AE1314;
-	margin: .5em 0em 1em;
+	margin: .5em 0em;
 	justify-self: start;
 }
 
@@ -90,7 +89,7 @@ form a{
 @media screen and (max-width: 700px){
 	section{
 		grid-template-areas: "max_stud_paragraph" "form";
-		padding: initial 50px;
+		/* padding: initial 50px; */
 	}
 
 .login_form_card,
