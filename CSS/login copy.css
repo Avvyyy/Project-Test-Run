@@ -58,7 +58,6 @@ form{
 }
 
 form button{
-	padding: .5em;
 	grid-area: submit;
 	color: #fff;
 	background-color: #AE1314;
