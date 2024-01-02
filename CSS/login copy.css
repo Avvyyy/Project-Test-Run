@@ -3,7 +3,8 @@ section{
 	grid-template-areas: "form max_stud_paragraph";		
 	grid-gap: 0em;
 	align-items:center;
-	justify-content:center;																		
+	justify-content:center;		
+	padding: 2em;																
 }
 
 
