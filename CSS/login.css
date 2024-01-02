@@ -36,7 +36,7 @@ button{
 }
 
 .form_input input{
-	width: 20em;
+	width: 100%;
 }
 
 #login_form a{
@@ -59,3 +59,5 @@ button{
 		bottom: 0px;
 	}
 } */
+
+
