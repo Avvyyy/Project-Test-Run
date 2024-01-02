@@ -53,9 +53,9 @@ button{
 }
 
 
-@media screen and (max-width: 900px) {
+/* @media screen and (max-width: 900px) {
 	footer{
 		position: sticky;
 		bottom: 0px;
 	}
-}
+} */

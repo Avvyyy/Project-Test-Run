@@ -1,4 +1,6 @@
 /* CSS file for reusable CSS stylings */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:display=swap');
+
 *,
 *::after,
 *::before
@@ -14,6 +16,7 @@ body{
 	padding: .5em;
 	background-color: #000;
 	color: #fff;
+	font-family: 'Poppins', sans-serif;
 }
 
 nav{
@@ -76,6 +79,10 @@ footer
 @media screen and (max-width: 600px) {
 	.button{
 		font-size: 1.2rem;
+	}
+
+	section{
+		padding: 30px;
 	}
 }
 
